@@ -1,0 +1,6 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/LuiguiMods/TaquitosMod_by_Luigui_VT
+build-by-default: true
+branches:
+- main
+projects: []
+...
